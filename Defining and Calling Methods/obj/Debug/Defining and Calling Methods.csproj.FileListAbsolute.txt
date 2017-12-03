@@ -1,0 +1,6 @@
+C:\Users\markp\source\repos\Defining and Calling Methods\Defining and Calling Methods\bin\Debug\Defining and Calling Methods.exe.config
+C:\Users\markp\source\repos\Defining and Calling Methods\Defining and Calling Methods\bin\Debug\Defining and Calling Methods.exe
+C:\Users\markp\source\repos\Defining and Calling Methods\Defining and Calling Methods\bin\Debug\Defining and Calling Methods.pdb
+C:\Users\markp\source\repos\Defining and Calling Methods\Defining and Calling Methods\obj\Debug\Defining and Calling Methods.csproj.CoreCompileInputs.cache
+C:\Users\markp\source\repos\Defining and Calling Methods\Defining and Calling Methods\obj\Debug\Defining and Calling Methods.exe
+C:\Users\markp\source\repos\Defining and Calling Methods\Defining and Calling Methods\obj\Debug\Defining and Calling Methods.pdb
